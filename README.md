@@ -1,5 +1,6 @@
 # Walmart Sales Analysis
 ![Banner](Walmart.png)
+
 Howdy there! Welcome to the Walmart Sales Data Analysis Project – where numbers meet narrative and insights come to life! I'm thrilled to have you here, ready to dive into the juicy details of my deep dive into the retail world of Walmart.
 
 Project at a Glance:
