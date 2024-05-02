@@ -1,2 +1,2 @@
 # Walmart_Sales_Analysis
-A Data Analyst Project
+A Business Analyst Project
